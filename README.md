@@ -1,4 +1,5 @@
-# Exploring-Robotics
+# Basic Robots
+This repo contains code for some beginner-level robots using ATmega16 micro-controller.
 
 * Autonomous LOTA Robot
 ![ScreenShot](https://github.com/Gogul09/Exploring-Robotics/blob/master/Basic%20Robots/Robots%20-%20Images/IMG_20150926_115856.jpg)
